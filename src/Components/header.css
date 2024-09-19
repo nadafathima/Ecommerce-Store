@@ -1,0 +1,21 @@
+.header{
+    background-color: #151a15;
+    padding: 20px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header h1{
+    margin: 0;
+
+}
+
+.logout{
+    background-color: #ff5722;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
